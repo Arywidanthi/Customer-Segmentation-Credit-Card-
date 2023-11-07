@@ -9,5 +9,5 @@ Bank XYZ wants to carry out customer segmentation to make it easier to detect fr
 - h8dsft_P1G4_AryWidanthi.ipynb is the file that consist of code for clustering model.
 
 ### Weaknesses and Strengths
-Strength: Can identify 4 cluster of credit card user 
+Strength: Can identify 4 cluster of credit card user <br>
 Weaknesses: Haven't create deployment
